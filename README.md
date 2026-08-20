@@ -1,8 +1,59 @@
-# SQL-Sales-Analytics
-Analysing the Sales data for Amazon services provided to customers using various methods and present a document to stakeholder
+# Sales Performance & Customer Analytics
 
-#Data Behaviour
-Connecting the data ot MySQL datbase and analysing the columns of the table anf their definition 
+**End-to-End Sales Analytics Project** focused on customer performance, sales trends, profitability, regional performance, and discount impact.
 
-#Data Profiling Framework
-STRUCTURE → GRAIN → COMPLETENESS → UNIQUENESS → VALIDITY → CONSISTENCY → NUMERICAL QUALITY → DATE QUALITY → BUSINESS-RULE VALIDATION → OUTLIER / ANOMALY CHECK → DATA CLEANING → ANALYSIS
+## Project Overview
+
+A data analytics project built to transform raw transactional sales data into **validated business insights and performance metrics** using SQL, with Power BI planned for visualization and executive reporting.
+
+## Tools & Technologies
+
+* SQL: MySQL / MySQL Workbench
+* Data Analysis: SQL, Excel
+* Visualization: Power BI
+* Version Control:** GitHub
+* Dataset: Transaction-level Sales Data
+
+## Dataset
+
+**19 columns | Transaction-level sales data**
+
+Key dimensions include **Customer, Industry, Segment, Product, Country, Region, Subregion, Order Date** and key measures including **Sales, Quantity, Discount, and Profit**.
+
+## Project Workflow
+
+**Data Profiling → Data Validation → Aggregation Checks → SQL Analysis → Business Insights → Power BI Dashboard**
+
+## Analysis Performed
+
+* Sales & Profitability Performance
+* Customer & Segment Analysis
+* Product Performance
+* Regional & Country Analysis
+* Monthly Sales & Profit Trends
+* Profit Margin Analysis
+* Sales Contribution by Region
+* Top Customer Analysis
+* High Sales / Low Profit Analysis
+* Discount vs. Profitability Analysis
+
+## SQL Skills Demonstrated
+
+'Aggregations` · `GROUP BY` · `ORDER BY` · `HAVING` · `CASE` · `Date Functions` · `Subqueries` · `Calculated KPIs` · `Conditional Aggregation` · `Business Rule Validation`
+
+## Current Status
+
+**Work in Progress**
+
+Completed: Data Profiling · Data Validation · Aggregation Checks · Intermediate SQL Analysis
+
+**Next:** Advanced Analysis → Business Insights → Power BI Dashboard
+
+## Business Objective
+
+The objective is to demonstrate how **SQL-driven analysis can support data-driven decision making** by identifying revenue drivers, profitable customers and products, regional opportunities, and potential profitability risks.
+
+---
+
+**Author:** Suryakant Sahoo
+**Role:** Senior Business Operations / Data Analytics Professional
