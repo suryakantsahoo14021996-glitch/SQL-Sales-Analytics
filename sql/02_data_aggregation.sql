@@ -79,6 +79,8 @@ group by 1
 order by total_qty desc
 limit 5;
 
+#data aggregation checks to see the data quality , Nulls and performed data profiling by aggregation
+
 
  
 
